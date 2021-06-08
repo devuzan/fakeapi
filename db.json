@@ -4,5 +4,10 @@
     "data": { 
       "status": true
     }
-  } 
+  },
+  "createIdentId": { 
+    "success": true,
+    "data": { 
+      "identId": "6e676552-9dc4-11eb-99a4-0acde28968be"
+  }
 }
